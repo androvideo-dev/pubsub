@@ -4,7 +4,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/daniel-androvideo/pubsub"
+	"github.com/androvideo-dev/pubsub"
 	"github.com/garyburd/redigo/redis"
 
 	"os"
